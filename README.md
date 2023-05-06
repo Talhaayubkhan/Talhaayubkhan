@@ -10,4 +10,7 @@ Here are some ideas to get you started:
 www.linkedin.com/in/talhaayub01
 ktalhaayub@gmail.com
 - 😄 Pronouns: He/Him
--->
+
+
+![Talha Ayub GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaAyub&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaayub1&layout=compact)](https://github.com/Talhaayub1)
