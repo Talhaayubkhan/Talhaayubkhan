@@ -1,14 +1,29 @@
-### Hi there 👋, my name is Talha Ayub
-i'm Junior Backend Developer 
+<h1 align="center">Hi 👋, I'm Talha Ayub</h1>
+<h3 align="center">A passionate Junior Backend developer</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayub1&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayub1" /> </p>
 
-- 🔭 I’m currently working on Node js, Express js, MonogDB, Mongoose, Git
-- 🌱 I’m currently learning Restful Api, Authentication & Authorization, React Js 
-- 👯 I’m looking for my first Internship to collaborate in realtime Projects!
-- 📫 How to reach me:
-www.linkedin.com/in/talhaayub01
-ktalhaayub@gmail.com
+- 🔭 I’m currently working on **HTMl-5, CSS-3,Bootstrap-5, JavaScript, Node js, Express js, MonogoDB, Mongoose, Git**
+
+- 🌱 I’m currently learning **React Js, Authentication & Authorization, Restful Api**
+
+- 👯 I’m looking for **an Internship to Collaborate in Real Time Projects**
+
+- 💬 Ask me about **HTMl-5, CSS-3, Bootstrap-5, JavaScript,Node.js, Express.js, MongoDB, Git and GitHub,**
+
+- 📫 How to reach me **ktalhaayub@gmail.com**
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaayub1&layout=compact)](https://github.com/Talhaayub1)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/talhaayub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaayub01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaayub1&show_icons=true&locale=en&layout=compact" alt="talhaayub1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaayub1&show_icons=true&locale=en" alt="talhaayub1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaayub1&" alt="talhaayub1" /></p>
