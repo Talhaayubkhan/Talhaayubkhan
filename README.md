@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayub1&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayub1" /> </p>
 
-- 🔭 I’m currently working on **HTMl-5, CSS-3,Bootstrap-5, JavaScript, Node js, Express js, MonogoDB, Mongoose, Git**
+- 🔭 I’m currently working on **HTMl-5, CSS-3,Bootstrap-5, JavaScript, Node js, Express js, MonogoDB, Restful Api, Mongoose, Git&GitHub**
 
-- 🌱 I’m currently learning **React Js, Authentication & Authorization, Restful Api**
+- 🌱 I’m currently learning **React Js, Authentication & Authorization**
 
 - 👯 I’m looking for **an Internship to Collaborate in Real Time Projects**
 
