@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
 <h3 align="center">A passionate MERN-Stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaayub1" alt="talhaayub1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayub1&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayub1" /> </p>
 
 - 🔭 I’m currently working on [WEB-BASED CHATAPP](https://github.com/Talhaayub1/ChatHub)
 
