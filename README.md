@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
-<h3 align="center">A Passionate MERN-Stack developer</h3>
+<h3 align="center">MERN STACK Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayubkhan&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayubkhan" /> </p>
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **JavaScript,React.js,Node.js,Express.js,MongoDB,Postman,Git,RESTful API**
 
 - 📫 How to reach me **khantalharahi@gmail.com Or ktalhaayub@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gzNtW0rUYZL_t5mI62B7_0NLUiTTebu_63yiqdH9B5k/edit](https://docs.google.com/document/d/1gzNtW0rUYZL_t5mI62B7_0NLUiTTebu_63yiqdH9B5k/edit)
 
 - ⚡ Fun fact **I think I'm Introvert 😶‍🌫️**
 
