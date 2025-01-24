@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayubkhan&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayubkhan" /> </p>
 
-- 🔭 I’m currently working on [WEB-BASED CHATAPP](https://github.com/Talhaayubkhan/ChatHub)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaayubkhan" alt="talhaayubkhan" /></a> </p>
+
+- 🔭 I’m currently working on [NetFlixGPT](https://github.com/Talhaayubkhan/netflixGPT)
 
 - 🌱 I’m currently learning **Redux ToolKit,ReactJS Authentication & Authorization**
 
-- 👯 I’m looking for **an Internship to Collaborate in Real Time Projects**
+- 👯 I’m looking for **Internship**
 
 - 💬 Ask me about **JavaScript,React.js,Node.js,Express.js,MongoDB,Postman,Git,RESTful API**
 
