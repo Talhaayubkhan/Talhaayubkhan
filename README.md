@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
-<h3 align="center">MERN STACK Developer</h3>
+<h3 align="center">Frontend || Backend (Progress...)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayubkhan&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayubkhan" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [NetFlixGPT](https://github.com/Talhaayubkhan/netflixGPT)
 
-- 🌱 I’m currently learning **Redux ToolKit,ReactJS Authentication & Authorization**
+- 🌱 I’m currently learning **Node.js | Express.js | RESTAPI & Backend**
 
-- 👯 I’m looking for **Internship**
+- 👯 I’m looking for **Internship & Entry-Level-Position**
 
-- 💬 Ask me about **JavaScript,React.js,Node.js,Express.js,MongoDB,Postman,Git,RESTful API**
+- 💬 Ask me about **JavaScript,React.js,MongoDB,Postman,Git**
 
 - 📫 How to reach me **khantalharahi@gmail.com Or ktalhaayub@gmail.com**
 
