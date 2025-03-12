@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
-<h3 align="center">Frontend | Backend (Progress...)</h3>
+<h3 align="center">MERN STACK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayubkhan&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayubkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaayubkhan" alt="talhaayubkhan" /></a> </p>
 
-- 🔭 I’m currently working on [YoutubeClone](https://github.com/Talhaayubkhan/react-youtube-clone)
+- 🔭 I’m currently working on [DEV-CONNECT](https://github.com/Talhaayubkhan/DevConnect)
 
 - 🌱 I’m currently learning **Node.js | Express.js | RESTAPI & Backend**
 
-- 👯 I’m looking for **Internship & Entry-Level-Position**
+- 👯 I’m looking for **FRONTEND-Entry-Level-Position**
 
-- 💬 Ask me about **JavaScript,React.js,MongoDB,Postman,Git**
+- 💬 Ask me about **JavaScript,React.js,REDUX-TOOLKIT,Tailwind-CSS,Postman,Git**
 
 - 📫 How to reach me **khantalharahi@gmail.com Or ktalhaayub@gmail.com**
+
+- 📄 Know about my Resume [https://docs.google.com/document/d/16sAMr7HzoCaJX4I4xpK6yCyAeIwYYNY38YWDmzScmGA/edit?ouid=114052684472177515388&usp=docs_home&ths=true](https://docs.google.com/document/d/16sAMr7HzoCaJX4I4xpK6yCyAeIwYYNY38YWDmzScmGA/edit?ouid=114052684472177515388&usp=docs_home&ths=true)
 
 - ⚡ Fun fact **I think I'm Introvert 😶‍🌫️**
 
