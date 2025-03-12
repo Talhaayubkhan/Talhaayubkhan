@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **JavaScript,React.js,REDUX-TOOLKIT,Tailwind-CSS,Postman,Git**
 
-- 📫 How to reach me **khantalharahi@gmail.com Or ktalhaayub@gmail.com**
-
-- 📄 Know about my Resume [https://docs.google.com/document/d/16sAMr7HzoCaJX4I4xpK6yCyAeIwYYNY38YWDmzScmGA/edit?ouid=114052684472177515388&usp=docs_home&ths=true](https://docs.google.com/document/d/16sAMr7HzoCaJX4I4xpK6yCyAeIwYYNY38YWDmzScmGA/edit?ouid=114052684472177515388&usp=docs_home&ths=true)
+- 📫 How to reach me **khantalharahi@gmail.com**
 
 - ⚡ Fun fact **I think I'm Introvert 😶‍🌫️**
 
