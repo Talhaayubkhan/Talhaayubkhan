@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaayubkhan" alt="talhaayubkhan" /></a> </p>
 
-- 🔭 I’m currently working on [DevConnect & NetflixGPT](https://github.com/Talhaayubkhan/DevConnect & https://github.com/Talhaayubkhan/NetflixGPT)
+- 🔭 I’m currently working on [NetflixGPT](https://github.com/Talhaayubkhan/NetflixGPT)
 
 - 🌱 I’m currently learning **Node.js | Express.js | RESTAPI & Backend**
 
