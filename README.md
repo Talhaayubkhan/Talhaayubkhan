@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Talha Ayub</h1>
-<h3 align="center">💻 MERN Stack Developer | Full-Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Talha Ayub 🚀</h1>
+<h3 align="center">Aspiring MERN Stack Developer | JavaScript Enthusiast | Full-Stack Engineer in Progress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaayubkhan&label=Profile%20views&color=0e75b6&style=flat" alt="talhaayubkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaayubkhan" alt="talhaayubkhan" /></a> </p>
 
-- 🔭 I’m currently working on [NetflixGPT](https://github.com/Talhaayubkhan/NetflixGPT)
+- 🔭 I’m currently working on [Netflix-GPT](https://github.com/Talhaayubkhan/NetflixGPT)
 
 - 🌱 I’m currently learning **Node.js | Express.js | RESTAPI & Backend**
 
-- 👯 I’m looking for **Frontend | Backend Postion**
+- 👯 I’m looking for **👀 Actively looking for an entry-level MERN Stack Developer Role**
 
 - 💬 Ask me about **JavaScript, React.js, REDUX-TOOLKIT, Tailwind-CSS, Postman, Git**
 
