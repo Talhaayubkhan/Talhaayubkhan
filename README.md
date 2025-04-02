@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js | Express.js | RESTAPI & Backend**
 
-- 👯 I’m looking for **👀 Actively looking for an entry-level MERN Stack Developer Role**
+- 👯 I’m looking for **Entry-level MERN Stack Developer Role**
 
 - 💬 Ask me about **JavaScript, React.js, REDUX-TOOLKIT, Tailwind-CSS, Postman, Git**
 
