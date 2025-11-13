@@ -6,9 +6,9 @@
 
 - 🌱 I'm currently learning TypeScript | Next.js | Generative AI | Clean Architecture | Design Patterns
 
-- 👯 I'm looking to collaborate on **Open-source projects and real-world web apps with MERN or Next.js stack
+- 👯 I'm looking to collaborate on Open-source projects and real-world web apps with MERN or Next.js stack
 
-- 🤝 I'm looking for help with **Improving my understanding of System Design and Scalable Backend Architecture.
+- 🤝 I'm looking for help with Improving my understanding of System Design and Scalable Backend Architecture.
 
 - 💬 Ask me about Frontend | Node.js | Express.js | JavaScript | REST APIs | React 
 
