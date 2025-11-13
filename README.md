@@ -2,21 +2,17 @@
 
 ### 💻 A passionate JavaScript Developer
 
-- 🔭 I'm currently working on **DEV-CONNECT - A developer networking and collaboration platform**
+- 🔭 I'm currently working on DEV-CONNECT - A developer networking and collaboration platform
 
-- 🌱 I'm currently learning **TypeScript | Next.js | Generative AI | Clean Architecture | Design Patterns**
+- 🌱 I'm currently learning TypeScript | Next.js | Generative AI | Clean Architecture | Design Patterns
 
 - 👯 I'm looking to collaborate on **Open-source projects and real-world web apps with MERN or Next.js stack
-**
 
 - 🤝 I'm looking for help with **Improving my understanding of System Design and Scalable Backend Architecture.
-**
 
-- 💬 Ask me about **Frontend | Node.js | Express.js | JavaScript | REST APIs | React 
-**
+- 💬 Ask me about Frontend | Node.js | Express.js | JavaScript | REST APIs | React 
 
-- 📫 How to reach me **khantalharahi@gmail.com**
-
+- 📫 How to reach me khantalharahi@gmail.com
 - ⚡ Fun fact **I’m an introvert who loves building things that speak louder than words.**
 
 <h3 align="left">Connect with me:</h3>
