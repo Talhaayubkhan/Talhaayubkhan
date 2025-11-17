@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hi there 👋, I'm Talha Ayub 
+# Hi there 👋, I'm Talha Ayub 
 
 ### 💻 A passionate JavaScript Developer
 
