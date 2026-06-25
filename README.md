@@ -9,10 +9,8 @@ I enjoy building responsive user interfaces, designing backend APIs, and solving
 I use AI tools in my workflow for research, debugging, and productivity, while critically evaluating outputs and focusing on understanding the underlying implementation.
 Currently, I am focused on growing as a software engineer by deepening my backend knowledge and expanding into TypeScript, cloud technologies, and AI-enabled systems.
 
-### 🏢 Experience
-
-- Currently at ****
-- Based in **Islamabad, Pakistan**
+### 📍 Location
+Islamabad, Pakistan
 
 ### 🛠️ Tech Stack
 
@@ -21,32 +19,24 @@ Currently, I am focused on growing as a software engineer by deepening my backen
 ### 🚀 Featured Projects
 
 #### ConnectDev
-
 A full-stack MERN developer networking platform with authentication, connection requests, and real-time chat using Socket.io.
 
 #### AI Movie Search App
-
 An AI-powered movie discovery platform using Gemini AI and TMDB API with natural language search.
 
 #### Real-Time Chat App
-
 A real-time messaging application with JWT authentication, typing indicators, read receipts, and presence tracking.
 
-
 ### 📚 Currently Learning
-
-Advanced backend architecture TypeScript Next.js AWS fundamentals AI application development
+Advanced backend architecture, TypeScript, Next.js, AWS fundamentals, and AI application development
 
 ### 🤝 Looking to Collaborate
-
 Full-stack web applications, AI-powered developer tools  
 
 ### 💬 Ask Me About
-
 JavaScript, React, Node.js, MongoDB, JWT, Mongoose, REST APIs
 
 ### 📊 GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talhaayubkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
