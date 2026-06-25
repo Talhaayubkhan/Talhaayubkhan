@@ -17,7 +17,7 @@
 
 ### 📚 Currently Learning
 
-Prompt Engineering, AWS, Socket.io, NEXT.js
+Advanced Backend, Prompt Engineering, AWS, Socket.io, NEXT.js
 
 ### 🤝 Looking to Collaborate
 
@@ -51,7 +51,7 @@ Full-stack development, real-time applications, and API integration.
 
 ### ⚡ Fun Fact
 
-I think i am an introvert individual...
+As a true introvert, I skip the small talk—but I can talk for hours if you bring up a topic I am passionate about.....🥂
 
 ---
 
