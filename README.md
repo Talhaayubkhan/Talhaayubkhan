@@ -1,32 +1,62 @@
-# Hi there 👋, I'm Talha Ayub 
+# 👨‍💻 Talha Ayub
 
-### 💻 A passionate JavaScript Developer
+[![Profile Views](https://komarev.com/ghpvc/?username=Talhaayubkhan&color=blue&style=flat-square)](https://github.com/Talhaayubkhan)
 
-- 🔭 I'm currently working on DEV-CONNECT - A developer networking and collaboration platform
+## Aspiring Full Stack Engineer
 
-- 🌱 I'm currently learning TypeScript | Next.js | Generative AI | Clean Architecture | Design Patterns
+> Talha Ayub is a recent Computer Science graduate with hands-on experience in building full-stack web applications using modern technologies like Node.js, Express.js, and React.js. He is passionate about writing clean code and eager to learn modern development practices, ready to contribute to a team and grow in a junior or internship role.
 
-- 👯 I'm looking to collaborate on Open-source projects and real-world web apps with MERN or Next.js stack
+### 🏢 Experience
 
-- 🤝 I'm looking for help with Improving my understanding of System Design and Scalable Backend Architecture.
+- Currently at ****
+- Based in **Islamabad, Pakistan**
 
-- 💬 Ask me about Frontend | Node.js | Express.js | JavaScript | REST APIs | React 
+### 🛠️ Tech Stack
 
-- 📫 How to reach me khantalharahi@gmail.com
-- ⚡ Fun fact **I’m an introvert who loves building things that speak louder than words.**
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript%20(ES6%2B)-333?style=for-the-badge&logo=javascript(es6+)&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-333?style=for-the-badge&logo=reduxtoolkit&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=expressdotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=jwt&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-333?style=for-the-badge&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-333?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white) ![Problem-Solving](https://img.shields.io/badge/Problem-Solving-333?style=for-the-badge&logo=problem-solving&logoColor=white) ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-333?style=for-the-badge&logo=teamcollaboration&logoColor=white) ![Quick Learner](https://img.shields.io/badge/Quick%20Learner-333?style=for-the-badge&logo=quicklearner&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Talhaayubkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Talhaayubkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/talha-ayub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha-ayub1" height="30" width="40" /></a>
-</p>
+### 📚 Currently Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+Prompt Engineering, AWS, Socket.io, NEXT.js
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Talhaayubkhan&show_icons=true&locale=en&layout=compact" alt="Talhaayubkhan" /></p>
+### 🤝 Looking to Collaborate
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Talhaayubkhan&show_icons=true&locale=en" alt="Talhaayubkhan" /></p>
+Full-stack web applications, real-time chat applications, and responsive web design projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talhaayubkhan&" alt="Talhaayubkhan" /></p>
+### 💬 Ask Me About
 
+Full-stack development, real-time applications, and API integration.
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talhaayubkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaayubkhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talhaayubkhan&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+### 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanthalarahi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaayub1) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talhaayubkhan)
+
+### ✍️ Blog & Content
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/talhaayubkhan)
+
+### 💖 Support My Work
+
+### ⚡ Fun Fact
+
+I think i am an introvert individual...
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** 🙏
+
+</div>
