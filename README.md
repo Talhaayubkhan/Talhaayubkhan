@@ -1,80 +1,93 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Talha%20Ayub&fontSize=50&fontColor=fff&animation=fadeIn)
-
 <div align="center">
 
-### Software Engineer | MERN Stack Developer | Islamabad, Pakistan
+# Talha Ayub
+### Software Engineer · MERN Stack · Islamabad, Pakistan
 
-I am a Computer Science graduate and full-stack JavaScript developer with hands-on experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy building responsive user interfaces, designing backend APIs, and solving real-world engineering problems. My projects include real-time applications, AI-assisted search systems, and modern full-stack web platforms.
-
-I use AI tools in my development workflow for research, debugging, and productivity while critically evaluating outputs and focusing on understanding the underlying implementation.
-Currently, I am focused on growing as a software engineer by deepening my backend knowledge and expanding into TypeScript, cloud technologies, and AI-enabled systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaayub1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Talhaayub_1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-### 💻 Tech Stack
+I'm a Computer Science graduate and full-stack JavaScript developer focused on building real-world web applications — from responsive UIs to backend APIs to real-time systems.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-333?style=for-the-badge&logo=reduxtoolkit&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=expressdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-333?style=for-the-badge&logo=mongoose&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-333?style=for-the-badge&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=jwt&logoColor=white)
+My current focus is **ConnectDev**, a MERN-stack developer networking platform with JWT auth, connection management, real-time chat via Socket.io, and an integrated AI assistant powered by the Gemini API. It's where I push ideas that actually challenge me.
+
+I use AI tools in my engineering workflow — for research, debugging, and productivity — while making a point to understand the underlying implementation rather than just accepting the output.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Tools & Infra**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ConnectDev
+### [ConnectDev](https://github.com/Talhaayubkhan/connectdev)
+> Developer networking platform — MERN stack
 
-A full-stack MERN developer networking platform with JWT authentication, connection management, and real-time chat using Socket.io.
+Full-stack social platform for developers. Features JWT authentication, connection requests, real-time chat via Socket.io, and a Gemini AI-powered assistant. Built with React, TanStack Query, DaisyUI, and Framer Motion on the frontend; Node.js, Express, and MongoDB on the backend.
 
-### AI Movie Search App
+---
 
-An AI-powered movie discovery platform using Gemini AI and TMDB API with natural language search.
+### [AI Movie Search App](https://github.com/Talhaayubkhan/ai-movie-search)
+> Natural language movie discovery — Gemini AI + TMDB API
 
-### Real-Time Chat App
+AI-powered movie discovery using natural language queries. Integrates Google's Gemini API with the TMDB database to surface relevant results beyond keyword matching.
 
-A real-time messaging platform supporting one-to-one and group conversations with typing indicators and presence tracking.
+---
 
-### 📈 GitHub Stats
+### [Real-Time Chat App](https://github.com/Talhaayubkhan/realtime-chat)
+> Messaging platform — Socket.io
+
+One-to-one and group chat with typing indicators, online presence tracking, and persistent message history. Built on Socket.io with a Node.js/Express/MongoDB backend.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talhaayubkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talhaayubkhan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaayubkhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaayubkhan&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-### 🌱 Currently
+## 🌱 Currently
 
-- 📚 Learning: **TypeScript, DATA-STRUCTURE & ALGORITHMS, Next.js, Advanced Backend, AWS, AI application development, Prompt engineering**
-- 🤝 Open to collaborate on: **Full-stack web applications, real-time systems, MERN projects, AI-powered Applications**
-- 💬 Ask me about: **React.js, JavaScript, Node.js, MongoDB, REST APIs, JWT, Socket.io, Full-stack development**
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khantalharahi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-ayub1) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talhaayubkhan)
-
-</div>
-
----
-
-### ✍️ Blog & Content
-
----
-
-### 💖 Support My Work
+- **Building:** ConnectDev — adding features, improving architecture
+- **Learning:** TypeScript · Next.js · Data Structures & Algorithms · Advanced Backend · AWS · AI application development
+- **Open to:** Full-stack collaboration, real-time systems, MERN projects, AI-integrated web apps
 
 ---
 
 <div align="center">
 
-⚡ I am naturally introverted, but I can talk for hours about software, systems, and engineering.
+*Naturally introverted — but give me a whiteboard and an engineering problem and I won't stop talking.*
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
