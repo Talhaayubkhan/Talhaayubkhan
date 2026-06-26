@@ -47,9 +47,9 @@ A real-time messaging platform supporting one-to-one and group conversations wit
 
 ### 🌱 Currently
 
-- 📚 Learning: **TypeScript, Next.js, Python, AWS fundamentals, AI application development**
-- 🤝 Open to collaborate on: **Full-stack web applications, real-time systems, MERN projects, AI-powered developer tools**
-- 💬 Ask me about: **React.js, Node.js, MongoDB, REST APIs, JWT, Socket.io, full-stack development**
+- 📚 Learning: **TypeScript, DATA-STRUCTURE & ALGORITHMS, Next.js, Advanced Backend, AWS, AI application development, Prompt engineering**
+- 🤝 Open to collaborate on: **Full-stack web applications, real-time systems, MERN projects, AI-powered Applications**
+- 💬 Ask me about: **React.js, JavaScript, Node.js, MongoDB, REST APIs, JWT, Socket.io, Full-stack development**
 
 ---
 
