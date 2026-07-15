@@ -2,18 +2,21 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Talhaayubkhan&color=blue&style=flat-square)](https://github.com/Talhaayubkhan)
 
-## Software Engineer | MERN Stack Developer 
+## Software Engineer | Full Stack JavaScript Developer | Building Scalable Web Applications
 
-> Full-stack engineer focused on building scalable web systems, real-time applications, and AI-assisted products. I care about clean architecture, backend reliability, and turning complex ideas into production-ready software.
+> Computer Science graduate and Full Stack JavaScript engineer passionate about designing scalable backend systems, real-time applications, and AI-powered web platforms. I enjoy transforming complex ideas into reliable software through clean architecture, maintainable code, and continuous learning.
 
-### 🏢 Experience
+## 🚀 Engineering Interests
 
-- Currently at **University of Agriculture Peshawar**
-- Based in **Islamabad, Pakistan**
+• Backend Engineering
+• Full Stack Development
+• Real-Time Applications
+• AI-powered Web Applications
+• Scalable REST APIs
 
 ### 🛠️ Tech Stack
 
-![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript%20(ES6%2B)-333?style=for-the-badge&logo=javascript(es6+)&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-333?style=for-the-badge&logo=reduxtoolkit&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-333?style=for-the-badge&logo=tanstackquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-333?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=expressdotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-333?style=for-the-badge&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=jwt&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-333?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white)
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript%20(ES6%2B)-333?style=for-the-badge&logo=javascript(es6+)&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-333?style=for-the-badge&logo=reduxtoolkit&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-333?style=for-the-badge&logo=tanstackquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=expressdotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-333?style=for-the-badge&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=jwt&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📚 Currently Learning
 
@@ -51,7 +54,7 @@ React.js, Node.js, MongoDB, REST APIs, JWT, Socket.io, full-stack development
 
 ### ⚡ Fun Fact
 
- I am naturally introverted, but I can talk for hours about software, systems, and engineering.
+Naturally introverted, but always excited to discuss software engineering, backend systems, system design, and emerging technologies...
 
 ---
 
